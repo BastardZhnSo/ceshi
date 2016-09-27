@@ -1,0 +1,10 @@
+清除float的八种方法
+
+1、结尾处加空div标签 写 clear:both
+2、父元素定义height
+3、父级元素div定义 伪类 after 和 zoom
+4、父级div定义 overflow:hidden
+5、父级div定义 overflow:auto
+6、父级元素也一起浮动
+7、父级div定义 display:table
+8、结尾处加 br 标签 clear:both
